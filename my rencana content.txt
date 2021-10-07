@@ -3,6 +3,7 @@ My Rencana Content :
   * ES-6
   * Framework Javascript
     + Vue
+    + React
   - Struktur Data Dasar
 - PHP Framework
   * Laravel
