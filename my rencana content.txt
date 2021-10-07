@@ -1,7 +1,9 @@
 My Rencana Content :
 - Javascript
-  - ES-6
-  - Framework Javascript
-  - Struktur Data Dasar
+  * ES-6
+  * Framework Javascript
+    + Angular
+    + React
 - PHP Framework
+  * Laravel
 - Vlog
